@@ -1,6 +1,8 @@
 'use strict';
 
-
+/**
+ * Class Search component
+ */
 class SearchComponent extends React.Component {
 
     constructor (props) {
