@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\priv\\projects\\Projects.csproj": {}
+    "C:\\Priv\\Projects\\firstProjectWithReact.netCore\\Projects.csproj": {}
   },
   "projects": {
-    "C:\\priv\\projects\\Projects.csproj": {
+    "C:\\Priv\\Projects\\firstProjectWithReact.netCore\\Projects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\priv\\projects\\Projects.csproj",
+        "projectUniqueName": "C:\\Priv\\Projects\\firstProjectWithReact.netCore\\Projects.csproj",
         "projectName": "Projects",
-        "projectPath": "C:\\priv\\projects\\Projects.csproj",
+        "projectPath": "C:\\Priv\\Projects\\firstProjectWithReact.netCore\\Projects.csproj",
         "packagesPath": "C:\\Users\\Rami\\.nuget\\packages\\",
-        "outputPath": "C:\\priv\\projects\\obj\\",
+        "outputPath": "C:\\Priv\\Projects\\firstProjectWithReact.netCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rami\\AppData\\Roaming\\NuGet\\NuGet.Config",

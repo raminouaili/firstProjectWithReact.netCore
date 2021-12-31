@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Priv\\Projects\\Projects.csproj",
+      "projectUniqueName": "C:\\Priv\\Projects\\firstProjectWithReact.netCore\\Projects.csproj",
       "projectName": "Projects",
-      "projectPath": "C:\\Priv\\Projects\\Projects.csproj",
+      "projectPath": "C:\\Priv\\Projects\\firstProjectWithReact.netCore\\Projects.csproj",
       "packagesPath": "C:\\Users\\Rami\\.nuget\\packages\\",
-      "outputPath": "C:\\Priv\\Projects\\obj\\",
+      "outputPath": "C:\\Priv\\Projects\\firstProjectWithReact.netCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rami\\AppData\\Roaming\\NuGet\\NuGet.Config",

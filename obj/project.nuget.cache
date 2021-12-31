@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2RvZ/ltfnWk4UIAFmoQlcNoLzOxA7iIQTbcZolZt0VzqokYCKhQkH21gaHhB1m9gMakB+O+STRFdDBrsoT1Oew==",
+  "dgSpecHash": "n6bW4z2JCySJhLJ3WATAs2YoyDApBfgiY+TsUK+ZGBACIh3ca3gu/gGWEPcN0XmQZCaFA+z36XJ9N6ozrzhqUA==",
   "success": true,
-  "projectFilePath": "C:\\priv\\projects\\Projects.csproj",
+  "projectFilePath": "C:\\Priv\\Projects\\firstProjectWithReact.netCore\\Projects.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
